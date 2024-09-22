@@ -58,8 +58,8 @@
 
     <footer class="made-by">Made by Boris Velička</footer>
 
-    <!-- POZN. uz sa nezvykne kodit takto, frameworky builduju appku ale ak si vo vanille da sa to takto verziovat a ojebes 
-    to ze musis vyprazdnovat cache pamat na browseri, rovnako to plati aj pri css -->
+    <!-- POZN. uz sa nezvykne kodit takto, frameworky builduju appku ale ak si vo vanille da sa to takto verziovat.  Ojebes 
+    to ze nemusis vyprazdnovat cache pamat na browseri, rovnako to plati aj pri css -->
     <script src="js/script.js?v-1.0.0"></script> 
 </body>
 
